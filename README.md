@@ -16,3 +16,8 @@ The data was obtained from kaggle:
 #####    d. Determine which Regression algorithm will best work with data to produce model
 #####    e. Evaluate models to determine best performing on test data
 #####    f. Hyperparameter tuning to improve chances of better performance
+
+
+Now these features are definitely not enough to accurately determine the price at which a Used car of Manufacture | and Model y will be sold,
+other factors like Trim, Maintenace/Service history, Accident history, Scoff & Dents, Prevailing interest Rate, etc have an impact. However
+getting that record from Kaggle is not easy.
